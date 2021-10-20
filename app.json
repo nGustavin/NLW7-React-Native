@@ -3,6 +3,7 @@
     "name": "native_heat",
     "slug": "native_heat",
     "version": "1.0.0",
+    "scheme": "native_heat",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
