@@ -26,4 +26,4 @@ export function MessageList(){
       <Message data={messages}/>
     </ScrollView>
   );
-}
+};
